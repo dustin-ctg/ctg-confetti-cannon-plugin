@@ -1,9 +1,9 @@
-<?php 
+<?php
 
 /**
  * CTG Header
- * 
- * 
+ *
+ *
  * @return void
  */
 function ctg_header()
